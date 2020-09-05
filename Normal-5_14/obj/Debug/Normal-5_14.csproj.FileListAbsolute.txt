@@ -1,0 +1,7 @@
+C:\Users\Polzovatel\source\repos\Normal-5_14\Normal-5_14\obj\Debug\Normal-5_14.csprojAssemblyReference.cache
+C:\Users\Polzovatel\source\repos\Normal-5_14\Normal-5_14\obj\Debug\Normal-5_14.csproj.CoreCompileInputs.cache
+C:\Users\Polzovatel\source\repos\Normal-5_14\Normal-5_14\bin\Debug\Normal-5_14.exe.config
+C:\Users\Polzovatel\source\repos\Normal-5_14\Normal-5_14\bin\Debug\Normal-5_14.exe
+C:\Users\Polzovatel\source\repos\Normal-5_14\Normal-5_14\bin\Debug\Normal-5_14.pdb
+C:\Users\Polzovatel\source\repos\Normal-5_14\Normal-5_14\obj\Debug\Normal-5_14.exe
+C:\Users\Polzovatel\source\repos\Normal-5_14\Normal-5_14\obj\Debug\Normal-5_14.pdb

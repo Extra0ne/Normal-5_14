@@ -30,17 +30,31 @@ namespace Normal_5_14
         }
 
         public void output()
+
         {
-            if (experience < 1) premium = 0;
+
+            if (experience < 1)
+            {
+                premium = 0.0;
+            }
             else
             {
-                if (experience >= 1 && experience < 3) premium = 0.05 * (salary * worked_hourse);
+                if (experience >= 1 && experience < 3)
+                {
+                    premium = 0.05 * (salary * worked_hourse);
+                }
                 else
                 {
-                    if (experience >= 3 && experience < 5) premium = 0.08 * (salary * worked_hourse);
+                    if (experience >= 3 && experience < 5)
+                    {
+                        premium = 0.08 * (salary * worked_hourse);
+                    }
                     else
                     {
-                        if (experience >= 5) premium = 0.15 * (salary * worked_hourse);
+                        if (experience >= 5)
+                        {
+                            premium = 0.15 * (salary * worked_hourse); 
+                        }
                     }
                 }
             }
